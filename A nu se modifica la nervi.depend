@@ -1,0 +1,58 @@
+# depslib dependency file v1.0
+1505385419 source:d:\a nu se modifica la nervi\main.cpp
+	<bits/stdc++.h>
+	<Player.h>
+	<Monster.h>
+	<Potion.h>
+	<Boss.h>
+
+1505892048 d:\a nu se modifica la nervi\include\player.h
+	<Potion.h>
+	<Monster.h>
+	<Boss.h>
+
+1505892151 d:\a nu se modifica la nervi\include\monster.h
+	<Player.h>
+
+1504613512 d:\a nu se modifica la nervi\include\shia.h
+	<Monster.h>
+
+1505891713 source:d:\a nu se modifica la nervi\src\monster.cpp
+	"Monster.h"
+	<Player.h>
+	<bits/stdc++.h>
+
+1504553774 source:d:\a nu se modifica la nervi\src\shia.cpp
+	"Shia.h"
+
+1505377593 source:d:\a nu se modifica la nervi\src\player.cpp
+	"Player.h"
+	<Monster.h>
+	<Potion.h>
+	<bits/stdc++.h>
+	<windows.h>
+
+1504602110 d:\a nu se modifica la nervi\include\potion.h
+
+1504613512 d:\a nu se modifica la nervi\include\battle.h
+	<Player.h>
+	<Monster.h>
+	<Potion.h>
+
+1504603411 source:d:\a nu se modifica la nervi\src\battle.cpp
+	"Battle.h"
+	<Player.h>
+	<Monster.h>
+	<Potion.h>
+	<bits/stdc++.h>
+	<windows.h>
+
+1504599902 source:d:\a nu se modifica la nervi\src\potion.cpp
+	"Potion.h"
+
+1505990913 d:\a nu se modifica la nervi\include\boss.h
+	<Monster.h>
+
+1505892151 source:d:\a nu se modifica la nervi\src\boss.cpp
+	"Boss.h"
+

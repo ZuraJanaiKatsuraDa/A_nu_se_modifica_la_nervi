@@ -1,0 +1,12 @@
+1
+Sword
+10
+10
+2
+Armor
+20
+20
+3
+ShiaLaBeouf
+999
+999
